@@ -12,10 +12,13 @@ h2{
 }
 p{
   font-family: sans-serif;
-  background-color: pink;
   color: blue;
 
 }
 ul{
   line-height: 40px
+}
+
+body {
+  background-color: yellow;
 }
