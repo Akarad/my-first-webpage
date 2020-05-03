@@ -1,7 +1,19 @@
 h1{
   color: #008080;
   font-weight: bolder;
+  text-align: justify;
+  line-height: normal;
 }
-p{font-family: cursive;
+
+p{
+  font-family: cursive;
 line-height: 40pix
+}
+
+ul{
+  line-height: 20px
+}
+
+body {
+  background-color: pink;
 }
